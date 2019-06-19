@@ -1,0 +1,6 @@
+﻿  Banking_Application.cpp
+d:\whitworth\summer2019\pr5_banking\pr4_banking\account.h(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\whitworth\summer2019\pr5_banking\pr4_banking\account.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\whitworth\summer2019\pr5_banking\pr4_banking\bank.h(40): warning C4018: '<': signed/unsigned mismatch
+d:\whitworth\summer2019\pr5_banking\pr4_banking\bank.h(60): warning C4018: '<': signed/unsigned mismatch
+  PR4_Banking.vcxproj -> D:\Whitworth\Summer2019\PR5_Banking\Debug\PR4_Banking.exe
